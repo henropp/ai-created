@@ -1,0 +1,1 @@
+You are helping build a compliance-sensitive training matrix automation. Accuracy and auditability matter more than speed. Do not implement any logic that updates the Excel matrix without an approval flag. Do not delete files. Do not overwrite newer dates. All uncertain matches must be sent to review.

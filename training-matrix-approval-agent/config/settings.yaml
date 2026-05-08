@@ -1,0 +1,6 @@
+{
+  "paths": {"incoming": "data/incoming", "awaiting_approval": "data/awaiting_approval", "processed": "data/processed", "needs_review": "data/needs_review", "failed": "data/failed", "audit_log": "data/audit_log.csv"},
+  "files": {"training_mapping": "config/training_mapping.csv", "staff_aliases": "config/staff_name_aliases.csv"},
+  "matching": {"fuzzy_threshold": 88},
+  "approval": {"approval_filename": "approved.txt", "rejection_filename": "rejected.txt"}
+}
